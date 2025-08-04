@@ -1,4 +1,4 @@
-Project SentientGrid: An AI Diagnostic Assistant (Multi-Agent Architecture)
+<pre> ```Project SentientGrid: An AI Diagnostic Assistant (Multi-Agent Architecture)
 SentientGrid is an AI-powered diagnostic assistant that blends real-time SCADA sensor data with PDF-based technical manuals using large language models for smart routing, execution, and synthesis. It's built for industrial engineers to troubleshoot equipment efficiently using natural language.
 
 This project represents Phase 2, transforming the previous Plan-Execute architecture into a more robust Multi-Agent System with explicit delegation and a Human-in-the-Loop component for enhanced control and reliability.
@@ -214,4 +214,4 @@ Try rephrasing the query or check LLM API access
 "How do I calibrate the sensor?"
 "Compressor pressure is fluctuating — what could be wrong?"
 "What's the safety procedure for high RPM shutdown?"
-"Temperature is high in machine X, what should I do?"
+"Temperature is high in machine X, what should I do?"``` </pre>
